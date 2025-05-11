@@ -1,0 +1,9 @@
+cd đường/dẫn/tới/thư-mục/chung-nh-tt
+
+git init
+git remote add origin https://github.com/chungdoan666/chung-nh-tt.git
+git checkout -b main
+
+git add .
+git commit -m "Khởi tạo dự án chung-nh-tt với README và nội dung"
+git push -u origin main
